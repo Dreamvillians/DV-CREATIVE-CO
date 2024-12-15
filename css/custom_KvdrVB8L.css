@@ -64,7 +64,7 @@
 }
 .slide[data-cid=slide-49-f307afd3] .customBlock {
   padding: 69px;
-  background-color: #132d2a;
+  background-color: #000000;
   color: white !important;
   margin-top: -118px;
 }
@@ -128,7 +128,7 @@
 
 /* About Us Slider (#3) */
 [data-cid=example-xr1z9XYi-f935178d] .controller li.selected a {
-  background-color: teal !important;
+  background-color: #6a00ff !important;
   color: white !important;
 }
 [data-cid=example-xr1z9XYi-f935178d] .inner-165 {
